@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-firebase-ecommerce-website/static/css/main.3c2ee93a.chunk.css",
+    "main.js": "/react-firebase-ecommerce-website/static/js/main.af96cb08.chunk.js",
+    "main.js.map": "/react-firebase-ecommerce-website/static/js/main.af96cb08.chunk.js.map",
+    "runtime-main.js": "/react-firebase-ecommerce-website/static/js/runtime-main.3a0f17d7.js",
+    "runtime-main.js.map": "/react-firebase-ecommerce-website/static/js/runtime-main.3a0f17d7.js.map",
+    "static/css/2.1cf52096.chunk.css": "/react-firebase-ecommerce-website/static/css/2.1cf52096.chunk.css",
+    "static/js/2.07ab642b.chunk.js": "/react-firebase-ecommerce-website/static/js/2.07ab642b.chunk.js",
+    "static/js/2.07ab642b.chunk.js.map": "/react-firebase-ecommerce-website/static/js/2.07ab642b.chunk.js.map",
+    "index.html": "/react-firebase-ecommerce-website/index.html",
+    "precache-manifest.f3127d3a2baf7de138b3fb1845b8b3f5.js": "/react-firebase-ecommerce-website/precache-manifest.f3127d3a2baf7de138b3fb1845b8b3f5.js",
+    "service-worker.js": "/react-firebase-ecommerce-website/service-worker.js",
+    "static/css/2.1cf52096.chunk.css.map": "/react-firebase-ecommerce-website/static/css/2.1cf52096.chunk.css.map",
+    "static/css/main.3c2ee93a.chunk.css.map": "/react-firebase-ecommerce-website/static/css/main.3c2ee93a.chunk.css.map",
+    "static/js/2.07ab642b.chunk.js.LICENSE.txt": "/react-firebase-ecommerce-website/static/js/2.07ab642b.chunk.js.LICENSE.txt",
+    "static/media/defaultavatar.JPG": "/react-firebase-ecommerce-website/static/media/defaultavatar.80136942.JPG",
+    "static/media/logo.png": "/react-firebase-ecommerce-website/static/media/logo.fb02edae.png",
+    "static/media/rate1.JPG": "/react-firebase-ecommerce-website/static/media/rate1.5b21a158.JPG",
+    "static/media/rate2.JPG": "/react-firebase-ecommerce-website/static/media/rate2.8963059d.JPG",
+    "static/media/rate3.JPG": "/react-firebase-ecommerce-website/static/media/rate3.f42730c4.JPG",
+    "static/media/rate4.JPG": "/react-firebase-ecommerce-website/static/media/rate4.9b7b103f.JPG",
+    "static/media/rate5.JPG": "/react-firebase-ecommerce-website/static/media/rate5.194b6e75.JPG",
+    "static/media/sidebarbcg.jpeg": "/react-firebase-ecommerce-website/static/media/sidebarbcg.da3d2e26.jpeg",
+    "static/media/signbg.jpg": "/react-firebase-ecommerce-website/static/media/signbg.e0f7e529.jpg",
+    "static/media/simplebcg.jpg": "/react-firebase-ecommerce-website/static/media/simplebcg.13d0b92d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a0f17d7.js",
+    "static/css/2.1cf52096.chunk.css",
+    "static/js/2.07ab642b.chunk.js",
+    "static/css/main.3c2ee93a.chunk.css",
+    "static/js/main.af96cb08.chunk.js"
+  ]
+}

@@ -1,1 +1,2 @@
-
+Ecommerce website app project for ladies bags based on popular brands, developed using react and firebase.
+The project has mainly two categories for the Admin and the Customers/Users. Customers have the filter functionality to search for the availability and type of products available on the website and meets all the requirements and security policies. When customer login/sign in, they can view all list of orders, saved products and add product reviews. Also, the website is user-friendly and mobile-friendly.

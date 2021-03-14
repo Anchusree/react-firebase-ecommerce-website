@@ -4,6 +4,11 @@ The project has mainly two categories: Admin and the Customers/Users.
 Customers have the filter functionality to search for the availability and type of products available on the website and meets all the requirements and security policies. When customer login/sign in, they can view all list of orders, saved products and add product reviews. Also, the website is user-friendly and mobile-friendly.
 Admin has all access to manage the website. It has completely a different system for the admin when admin log in to the system. Admin can operate crud operations and manage everything on the system through online and real time database.
 
+Example user:
+email: emy@gmail.com
+password: emy123
+
+
 User homepage
 
 ![image](https://user-images.githubusercontent.com/68848197/110939696-dd60f380-8346-11eb-8c80-039765d34031.png)

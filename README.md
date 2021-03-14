@@ -5,8 +5,10 @@ Customers have the filter functionality to search for the availability and type 
 Admin has all access to manage the website. It has completely a different system for the admin when admin log in to the system. Admin can operate crud operations and manage everything on the system through online and real time database.
 
 Example user:
-email: emy@gmail.com
-password: emy123
+emy@gmail.com,password: emy123
+Example admin:
+sophia@gmail.com, pswd: sophia123
+
 
 
 User homepage

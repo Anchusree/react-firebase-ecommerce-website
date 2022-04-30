@@ -58,7 +58,7 @@ function App(){
 
     return(
         <>
-    <Router>
+    <Router basename="/react-firebase-ecommerce-website">
     <UserContext.Provider value={{user}}>
       {
        user 
